@@ -19,7 +19,7 @@ The **DevOps Day 1 Challenge** is designed to get you up and running with the co
 - **Docker**: For containerizing applications and ensuring consistency across environments
 - **Terraform**: To manage infrastructure through code, making it reproducible and scalable
 
-## What You’ll Learn
+## What I Learned
 
 - **Version Control with Git**: Track changes and collaborate on code with ease
 - **Continuous Integration (CI)**: Automatically test and integrate code changes to improve quality and speed
